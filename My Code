@@ -1,0 +1,7 @@
+myVariable = 0
+
+def when_started1():
+    global myVariable
+    pass
+
+when_started1()
